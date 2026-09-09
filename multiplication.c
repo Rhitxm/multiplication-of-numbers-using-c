@@ -6,4 +6,5 @@ int main(){
     int d = 1, e;
     printf("a*b = %d\n", a * b);
     printf("c*d = %d\n", c * d);
+}
 
